@@ -195,7 +195,7 @@ def draw_animation(boundaries, N_point, N_arrows, cycle):
 
 # 示例运行
 if __name__ == "__main__":
-    fft_draw("/home/thunder/Pictures/background/4.jpg",  # 替换为你的图片路径
+    fft_draw("/you/img_path",  # 替换为你的图片路径
              N_point=800,
              N_arrows=120,  # 适当增加向量数量以提高精度
              show_boundary=True,
